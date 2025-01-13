@@ -1,0 +1,2 @@
+Cd C:\Users\Empower\Desktop\my stuff\code
+Mvn test
